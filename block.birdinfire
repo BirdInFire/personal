@@ -156,7 +156,7 @@
 ||e-net-b.be^
 ||fly.by^
 ||fly.byfly.by^
-||comments.odysee.tv^
+||odysee.tv^
 ||gfe.nvidia.com^
 ||awstrack.me^
 ||mask.apple-dns.net^
@@ -178,13 +178,11 @@
 ||mapbox.com^
 ||here.com^
 ||tripadvisor.com^
-||pub^
 ||ru^
 ||tw^
 ||zip^
 ||mov^
 ||cn^
-||gov^
 ||localdomain^
 ||dnscrypt^
 ||arpa^
@@ -257,7 +255,6 @@
 ||arapurayil.com^
 ||asuscomm.com^
 ||google-public-dns-*.google.com^
-||youtube.com^
 ||dzen.ru^
 ||ya.ru^
 ||yandex.aero^
