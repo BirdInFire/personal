@@ -9,3 +9,4 @@ libreddit.tiekoetter.com##.info-button
 chapmanganato.com##div.body-site:first-child > div.container.container-main:nth-child(3) > div.container-main-left:first-child > div.panel-story-comment.panel-fb-comment.a-h:nth-child(6)
 chapmanganato.com##div.body-site:first-child > div.container:nth-child(5) > div.panel-chapter-comment.panel-fb-comment.a-h:nth-child(3)
 manganato.com##div.body-site:first-child > div.container.container-main:nth-child(3) > div.container-main-left:first-child > div.panel-story-comment.panel-fb-comment.a-h:nth-child(6)
+manganato.com##div.body-site:first-child > div.container.container-main:nth-child(3) > div.container-main-right:last-child > div:first-child > div > iframe:last-child
